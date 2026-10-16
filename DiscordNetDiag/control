@@ -1,0 +1,9 @@
+Package: com.local.discordnetdiag
+Name: Discord Network Diagnostic
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Diagnostic-only tweak that logs Discord URLSession task starts. It does not claim to fix Discord crashes.
+Maintainer: Local Build
+Author: Local Build
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 12.0)
